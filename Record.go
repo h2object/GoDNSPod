@@ -21,7 +21,7 @@ import (
 //              "remark": "",
 //              "updated_on": "2014-06-05 09:47:40",
 //              "hold": "hold"
-//          },
+//          }
 type RecordInfo struct{
 	ID string `json:"id"`
 	Name string `json:"name"`

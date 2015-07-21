@@ -1,7 +1,8 @@
-# GoDNSPod
-----------
+# GoDNSPod Golang Client Library
+--------------------------------
 
 DNSPOD API 简易客户端封装包。
+
 DNSPod API client library for golang based on DNSPod.com API service
 
 
